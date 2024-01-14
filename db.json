@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "jgKpH@example.com"
+    },
+    {
+      "fullName": "vicky",
+      "email": "admin@gmail.com",
+      "phone": "2222222",
+      "department": "dermatology",
+      "date": "2023-12-09",
+      "time": "21:31",
+      "id": 2
+    },
+    {
+      "fullName": "vicky",
+      "phone": "9532343851",
+      "date": "2023-12-11",
+      "time": "13:17",
+      "id": 3
+    }
+  ],
+  "register": [
+    {
+      "name": "vicky",
+      "email": "viclky@fssfgmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ]
+}
